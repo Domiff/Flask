@@ -1,0 +1,6 @@
+{"time": "13 - 59 - 55", "level": "INFO", "logger": "app_logger", "message": "hello"}
+{"time": "13 - 59 - 55", "level": "INFO", "logger": "app_logger", "message": "'"}
+{"time": "14 - 00 - 08", "level": "INFO", "logger": "app_logger", "message": "hello"}
+
+{"time": "14 - 40 - 02", "level": "INFO", "logger": "app_logger", "line number": 8, "message": "hello"}
+{"time": "14 - 40 - 02", "level": "DEBUG", "logger": "app_logger", "line number": 9, "message": "'"}
